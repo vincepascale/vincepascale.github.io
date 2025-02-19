@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark"  # "air", "aqua", "contrast", "default", "dark
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Test"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vince Pascale"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hello, World"
+  location         : "CO"
   email            :
   links:
     - label: "Email"
